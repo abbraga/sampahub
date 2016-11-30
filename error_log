@@ -1,0 +1,306 @@
+[14-Apr-2016 02:51:24] PHP Parse error:  syntax error, unexpected T_ENDWHILE in /home/start851/public_html/sampahub.com.br/wp-content/themes/classiera/template-add-post.php on line 955
+[14-Apr-2016 03:13:42] PHP Parse error:  syntax error, unexpected '}' in /home/start851/public_html/sampahub.com.br/wp-content/themes/classiera/template-add-post.php on line 884
+[16-Jul-2016 18:22:08] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[21-Jul-2016 12:06:04] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[25-Jul-2016 03:48:55] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[25-Jul-2016 22:45:30] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/start851/public_html/sampahub.com.br/wp-includes/class-wp-image-editor-imagick.php on line 350
+[25-Jul-2016 23:19:29] Feedzy RSS Feeds - related feed: www.startupi.com.br/feed - Error message: WP HTTP Error: Couldn't resolve host 'www.startupi.com.br%2Ffeed'
+[04-Aug-2016 04:41:08] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 05:44:22] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 06:55:38] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 06:55:39] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 11:09:04] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 11:09:06] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[04-Aug-2016 12:54:39] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 00:36:35] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 00:36:36] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 06:40:35] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 06:40:36] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 12:22:41] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 12:22:42] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[05-Aug-2016 13:55:21] PHP Parse error:  syntax error, unexpected '<' in /home/start851/public_html/sampahub.com.br/wp-content/themes/kelly/inc/custom-header.php on line 77
+[08-Aug-2016 03:17:51] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => A feed could not be found at http://startse.com.br/portal/feed/. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[21-Aug-2016 01:51:58] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[22-Aug-2016 00:38:29] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[22-Aug-2016 00:38:57] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[22-Aug-2016 00:39:21] PHP Parse error:  syntax error, unexpected T_STATIC in /home/start851/public_html/sampahub.com.br/wp-content/plugins/jetpack/sal/class.json-api-links.php on line 10
+[26-Aug-2016 23:49:52] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => A feed could not be found at http://startse.com.br/portal/feed/. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[27-Aug-2016 13:03:18] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10000 milliseconds with 0 bytes received
+)
+
+[27-Aug-2016 13:26:43] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10007 milliseconds with 0 bytes received
+)
+
+[27-Aug-2016 19:01:21] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[27-Aug-2016 22:17:01] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[27-Aug-2016 23:19:16] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: connect() timed out!
+)
+
+[27-Aug-2016 23:19:37] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: connect() timed out!
+)
+
+[28-Aug-2016 09:27:09] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10009 milliseconds with 0 bytes received
+)
+
+[28-Aug-2016 09:27:20] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10004 milliseconds with 0 bytes received
+)
+
+[28-Aug-2016 09:39:04] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10001 milliseconds with 0 bytes received
+)
+
+[28-Aug-2016 09:45:16] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[28-Aug-2016 19:24:12] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10004 milliseconds with 0 bytes received
+)
+
+[28-Aug-2016 22:17:46] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[30-Aug-2016 12:14:32] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[08-Sep-2016 16:06:33] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: cURL error 28: Operation timed out after 10004 milliseconds with 0 bytes received
+)
+
+[12-Sep-2016 19:09:02] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: cURL error 28: Operation timed out after 10000 milliseconds with 0 bytes received
+)
+
+[18-Sep-2016 05:22:27] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: cURL error 28: Operation timed out after 10001 milliseconds with 0 bytes received
+)
+
+[18-Sep-2016 09:19:28] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: cURL error 28: Operation timed out after 10004 milliseconds with 0 bytes received
+)
+
+[18-Sep-2016 10:06:30] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: cURL error 28: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[18-Sep-2016 19:33:34] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [1] => WP HTTP Error: cURL error 28: Operation timed out after 10005 milliseconds with 0 bytes received
+)
+
+[18-Oct-2016 03:21:22] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[18-Oct-2016 03:21:48] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[18-Oct-2016 03:21:53] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[18-Oct-2016 03:21:58] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[18-Oct-2016 06:45:09] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => A feed could not be found at https://endeavor.org.br/feed. A feed with an invalid mime type may fall victim to this error, or SimplePie was unable to auto-discover it.. Use force_feed() if you are certain this URL is a real feed.
+)
+
+[28-Oct-2016 13:54:14] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[28-Oct-2016 13:54:15] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[28-Oct-2016 19:30:43] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[28-Oct-2016 19:41:51] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[28-Oct-2016 19:41:51] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Oct-2016 01:32:13] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Oct-2016 04:21:34] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Oct-2016 05:11:38] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Oct-2016 19:16:51] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Oct-2016 20:40:29] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[30-Oct-2016 01:24:19] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[30-Oct-2016 04:12:26] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[30-Oct-2016 06:02:32] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[30-Oct-2016 10:33:43] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 02:03:53] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 04:08:36] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 10:56:47] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 10:59:45] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 12:29:44] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[31-Oct-2016 12:29:58] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[02-Nov-2016 22:44:51] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/start851/public_html/sampahub.com.br/wp-includes/class-wp-image-editor-imagick.php on line 29
+[23-Nov-2016 03:11:08] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[24-Nov-2016 01:01:35] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[24-Nov-2016 16:01:56] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[28-Nov-2016 22:55:57] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 04:16:18] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 22:57:44] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 23:17:12] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 23:23:31] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 23:23:31] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+
+[29-Nov-2016 23:25:53] Feedzy RSS Feeds - related feed: Array - Error message: Array
+(
+    [2] => WP HTTP Error: Too many redirects
+)
+

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Classiera Helper\n"
+"POT-Creation-Date: 2016-10-17 13:53+0500\n"
+"PO-Revision-Date: 2016-10-17 13:53+0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: index.php:22
+msgctxt "post type general name"
+msgid "Pricing Plans"
+msgstr ""
+
+#: index.php:23
+msgctxt "post type singular name"
+msgid "Price Plans"
+msgstr ""
+
+#: index.php:24
+msgctxt "book"
+msgid "Add New Price Plan"
+msgstr ""
+
+#: index.php:25
+msgid "Add New Price Plan"
+msgstr ""
+
+#: index.php:26
+msgid "Edit Price Plan"
+msgstr ""
+
+#: index.php:27
+msgid "New Price Plan"
+msgstr ""
+
+#: index.php:28
+msgid "View Price Plan"
+msgstr ""
+
+#: index.php:29
+msgid "Search Price Plans"
+msgstr ""
+
+#: index.php:30
+msgid "No Price Plan found"
+msgstr ""
+
+#: index.php:31
+msgid "No Price Plans found in Trash"
+msgstr ""
+
+#: index.php:58
+msgid "Featured Ads"
+msgstr ""
+
+#: index.php:92 index.php:124 index.php:168
+msgid "Replace your text line with default one"
+msgstr ""
+
+#: index.php:213
+msgid "Price :Dont put Cuccreny tag"
+msgstr ""
+
+#: index.php:250
+msgid "Days"
+msgstr ""
+
+#: index.php:287
+msgid ""
+"Put here USERNAME to cancel this plan for particular user (Leave empty for "
+"nothing)"
+msgstr ""
+
+#: index.php:341
+msgid ""
+"Put here USERNAME to assign this plan for particular user (Leave empty for "
+"nothing)"
+msgstr ""
+
+#: index.php:404
+msgid "Most popular plan"
+msgstr ""
+
+#: index.php:458
+msgctxt "post type general name"
+msgid "Blog Posts"
+msgstr ""
+
+#: index.php:459
+msgctxt "post type singular name"
+msgid "Blog Posts"
+msgstr ""
+
+#: index.php:460
+msgctxt "book"
+msgid "Add New Blog Post"
+msgstr ""
+
+#: index.php:461
+msgid "Add New Blog Post"
+msgstr ""
+
+#: index.php:462
+msgid "Edit Blog Post"
+msgstr ""
+
+#: index.php:463
+msgid "New Blog Post"
+msgstr ""
+
+#: index.php:464
+msgid "View Blog Post"
+msgstr ""
+
+#: index.php:465
+msgid "Search Blog Posts"
+msgstr ""
+
+#: index.php:466
+msgid "No Blog Post found"
+msgstr ""
+
+#: index.php:467
+msgid "No Blog Post found in Trash"
+msgstr ""
+
+#: shortcode.lib.php:650 shortcode.lib.php:814 shortcode.lib.php:943
+#: shortcode.lib.php:1113 shortcode.lib.php:1240 shortcode.lib.php:1407
+#: shortcode.lib.php:4138 shortcode.lib.php:4308 shortcode.lib.php:4437
+#: shortcode.lib.php:4607 shortcode.lib.php:4737 shortcode.lib.php:4908
+#: shortcode.lib.php:5037 shortcode.lib.php:5207 shortcode.lib.php:5335
+#: shortcode.lib.php:5505 shortcode.lib.php:5634 shortcode.lib.php:5805
+#: shortcode.lib.php:5933 shortcode.lib.php:6103 shortcode.lib.php:6231
+#: shortcode.lib.php:6401 shortcode.lib.php:6531 shortcode.lib.php:6702
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: twitter-function.php:21
+msgid ""
+"Due to Twitter API changed you must insert Twitter APP. Check Our theme "
+"Options there you have Option for Twitter API, insert the Keys One Time"
+msgstr ""
+
+#: twitter-function.php:34
+msgid ""
+"You'll need to regenerate it <a href=\"https://dev.twitter.com/apps\" target="
+"\"_blank\">here</a>!"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Classiera Helper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://joinwebs.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Classiera Custom Post Type for Pricing Plans And Blog Post."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "JoinWebs"
+msgstr ""
